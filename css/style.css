@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 3vh;
+}
+
+.block-left {
+    text-align: center;
+}
+
+.block-left .date {
+    color: #32CD32;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.block-left .time {
+    color: #fff;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 0.8;
+}
+
+.body {
+    background-color: #303030;
+}
+
+
+/*html {
+    -moz-transform:rotate(90deg);
+  -webkit-transform:rotate(90deg);
+  -o-transform:rotate(90deg);
+  -ms-transform:rotate(90deg);
+    transform: rotate(90deg);
+}*/
